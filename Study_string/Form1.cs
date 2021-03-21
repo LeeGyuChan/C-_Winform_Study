@@ -19,6 +19,7 @@ namespace Study_string
 
         private void button1_Click(object sender, EventArgs e)
         {
+            //커밋테스트
             string title = Label_Title.Text;
             Label_A.Text = title;
         }
